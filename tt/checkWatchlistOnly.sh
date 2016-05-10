@@ -19,6 +19,3 @@ then
 else 
     echo  -e "no watchlist file found, download from \n http://172.31.10.30:8027/file/adx/watchlist/YYYY/MM/YYYYMMDD_watchlist.csv"; exit 101
 fi
-
-
-
